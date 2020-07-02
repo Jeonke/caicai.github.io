@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6596b412-8edd-454f-bc66-aef7cfe8431a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="6596b412-8edd-454f-bc66-aef7cfe8431a" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -69,11 +67,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-313" />
-    <option name="y" value="322" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-46" />
+    <option name="y" value="119" />
     <option name="width" value="1380" />
-    <option name="height" value="581" />
+    <option name="height" value="565" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -87,17 +85,6 @@
             <path>
               <item name="caicai.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="caicai.github.io" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="caicai.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="caicai.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="caicai.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="caicai.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -140,17 +127,18 @@
       <updated>1593665907643</updated>
       <workItem from="1593665908902" duration="483000" />
       <workItem from="1593666740225" duration="156000" />
-      <workItem from="1593673276386" duration="609000" />
+      <workItem from="1593673276386" duration="1872000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1248000" />
+    <option name="totallyTimeSpent" value="2511000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="32" width="1382" height="744" extended-state="7" />
+    <frame x="-31" y="81" width="1380" height="565" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27232143" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27272728" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
