@@ -1,0 +1,18 @@
+[
+  {
+    "name": "百度搜索",
+    "searchSrc": "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd="
+  },
+  {
+    "name": "360搜索",
+    "searchSrc": "https://www.so.com/s?ie=utf-8&shb=1&src=360sou_newhome&q="
+  },
+  {
+    "name": "必应搜索",
+    "searchSrc": "https://cn.bing.com/search?q="
+  },
+  {
+    "name": "搜狗搜索",
+    "searchSrc": "https://www.sogou.com/web?query="
+  }
+]
