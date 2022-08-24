@@ -3,13 +3,13 @@
     "title": "Vuedoc【我的小站】",
     "name": "Vuedoc",
     "href": "https://jeonke.itcnw3c.com/",
-    "image": "https://raw.githubusercontent.com/Jeonke/PicGoPictureBed/master/img/home.png"
+    "image": "https://gitee.com/cnnc/pic-go-picture-bed/raw/master/img/home.png"
   },
   {
     "title": "Vuejs",
     "name": "Vuejs",
     "href": "https://vuejs.org/",
-    "image": "https://raw.githubusercontent.com/Jeonke/PicGoPictureBed/master/img/logo.png"
+    "image": "https://gitee.com/cnnc/pic-go-picture-bed/raw/master/img/logo.png"
   },
   {
     "title": "Element",
@@ -39,7 +39,7 @@
     "title": "Nut UI【京东】一套京东风格的轻量级移动端Vue组件库",
     "name": "Nut UI",
     "href": "https://nutui.jd.com/#/index",
-    "image": "https://img14.360buyimg.com/imagetools/jfs/t1/167902/2/8762/791358/603742d7E9b4275e3/e09d8f9a8bf4c0ef.png"
+    "image": "https://nutui.jd.com/favicon.ico"
   },
   {
     "title": "Cube UI【滴滴】基于 Vue.js 实现的精致移动端组件库",
@@ -81,7 +81,7 @@
     "title": "Vue API",
     "name": "Vue API",
     "href": "https://cn.vuejs.org/v2/api/#data",
-    "image": "https://raw.githubusercontent.com/Jeonke/PicGoPictureBed/master/img/logo.png"
+    "image": "https://gitee.com/cnnc/pic-go-picture-bed/raw/master/img/logo.png"
   },
   {
     "title": "React",
@@ -693,7 +693,7 @@
     "title": "LintCode",
     "name": "LintCode",
     "href": "https://www.lintcode.com/",
-    "image": "https://raw.githubusercontent.com/Jeonke/PicGoPictureBed/master/img/home.png"
+    "image": "https://gitee.com/cnnc/pic-go-picture-bed/raw/master/img/home.png"
   },
   {
     "title": "NowCoder",
@@ -738,6 +738,12 @@
     "image": "https://www.bookstack.cn/favicon.ico"
   },
   {
+    "title": "计算机书籍控",
+    "name": "计算机书籍控",
+    "href": "http://bestcbooks.com/",
+    "image": "http://bestcbooks.com/favicon.ico"
+  },
+  {
     "title": "it熊猫",
     "name": "it熊猫",
     "href": "https://itpanda.net/book/",
@@ -747,7 +753,7 @@
     "title": "Desktos【编程书籍索引】",
     "name": "Desktos",
     "href": "./static/home/boos.html",
-    "image": "https://raw.githubusercontent.com/Jeonke/PicGoPictureBed/master/img/home.png"
+    "image": "https://gitee.com/cnnc/pic-go-picture-bed/raw/master/img/home.png"
   },
   {
     "title": "MVN",
@@ -759,12 +765,12 @@
     "title": "CaiCaiMusic【使用NeteaseCloudMusicApi搭建】移动端打开",
     "name": "CaiCaiMusic",
     "href": "https://jeonke.itcnw3c.com/CaiCaiMusic",
-    "image": "https://raw.githubusercontent.com/Jeonke/PicGoPictureBed/master/img/miusc.png"
+    "image": "https://gitee.com/cnnc/pic-go-picture-bed/raw/master/img/miusc.png"
   },
   {
     "title": "vueChat",
     "name": "vueChat",
     "href": "./static/home/index.html",
-    "image": "https://raw.githubusercontent.com/Jeonke/PicGoPictureBed/master/img/home.png"
+    "image": "https://gitee.com/cnnc/pic-go-picture-bed/raw/master/img/home.png"
   }
 ]
